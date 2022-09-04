@@ -1,0 +1,5 @@
+.idea
+src/.env
+.DS_Store
+src/.ipynb_checkpoints
+src/glove.*
